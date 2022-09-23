@@ -1,6 +1,6 @@
 ### Hi there 👋, Davi Jonck
 #### Developer
-![Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Developer](https://www.ufpb.br/lmca/contents/imagens/le-tlc-lc-700x200-06302016.jpg/@@images/a8e17793-bce4-41b7-83cd-3c278dd29e72.jpeg)
 
 I am currently studying Software Engineering at university and focusing more in front-end but I'm always open to new ways.
 
