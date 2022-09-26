@@ -6,7 +6,7 @@ I am currently studying Software Engineering at university and focusing more in 
 
 
 
-Skills: HTML / CSS / JS / Basics of Java
+Skills: HTML / CSS / JS / Basics of Java / Git / Github
 
 - 🔭 I’m currently working on Improve my Skills 
 - 🌱 I’m currently learning JavaScript 
