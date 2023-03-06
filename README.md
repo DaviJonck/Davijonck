@@ -2,14 +2,14 @@
 #### Developer
 ![Developer](https://www.ufpb.br/lmca/contents/imagens/le-tlc-lc-700x200-06302016.jpg/@@images/a8e17793-bce4-41b7-83cd-3c278dd29e72.jpeg)
 
-I am currently studying Software Engineering at university and focusing more in front-end but I'm always open to new ways.
+I am currently studying Software Engineering at university and focusing in FullStack but I'm always open to new ways.
 
 
 
-Skills: HTML / CSS / JS / Basics of Java / Git / Github
+Skills: JS / JAVA / HTML / CSS / Git / Github
 
 - 🔭 I’m currently working on Improve my Skills 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me: contatodavij@gmail.com 
 
 
