@@ -1,4 +1,4 @@
-### Hi there 👋, Davi Jonck
+# Hi there 👋, Davi Jonck
 #### Developer
 
 I am currently studying Software Engineering at university and focusing in FullStack but I'm always open to new ways.
