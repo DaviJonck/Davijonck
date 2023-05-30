@@ -3,7 +3,8 @@
 
 I am currently studying Software Engineering at university and focusing in FullStack but I'm always open to new ways.
 
-
+## My articles: 
+https://dev.to/davijonck
 
 ![Hagb](https://user-images.githubusercontent.com/17154364/234609177-f53352a9-892d-4f5a-ac52-429890d30805.png)
 
