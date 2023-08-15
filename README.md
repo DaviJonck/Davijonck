@@ -10,7 +10,7 @@ https://dev.to/davijonck
 
 
 
-## Skills: JAVA / SPRING / JavaScript / React / HTML / CSS / Git / Github
+## Skills: Java / Spring / JavaScript / React / HTML / CSS / Git / Github
 
 
 - 🔭 I’m currently working on Improve my Skills 
