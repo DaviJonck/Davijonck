@@ -1,7 +1,9 @@
 # Hi there 👋, Davi Jonck
 #### Developer
+## Working in GRUPO RD Saúde outsourced by Develcode
 
-I am currently studying Software Engineering at university and focusing in FullStack but I'm always open to new ways.
+
+I am currently studying Software Engineering at university and focusing in Frontend but I'm always open to new ways.
 
 ## My articles: 
 https://dev.to/davijonck
@@ -10,11 +12,11 @@ https://dev.to/davijonck
 
 
 
-## Skills: Java / Spring / JavaScript / React / HTML / CSS / Git / Github
+## Skills:  ReactJS | TypeScript | Next.js | CSS | Jest | APIs Rest | Node | React Test Library | Git | Styled Components 
 
 
 - 🔭 I’m currently working on Improve my Skills 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me: contatodavij@gmail.com 
 
 
