@@ -14,9 +14,6 @@ https://dev.to/davijonck
 
 ## Skills:  ReactJS | TypeScript | Next.js | CSS | Jest | APIs Rest | Node | React Test Library | Git | Styled Components 
 
-
-- 🔭 I’m currently working on Improve my Skills 
-- 🌱 I’m currently learning React 
 - 📫 How to reach me: contatodavij@gmail.com 
 
 
