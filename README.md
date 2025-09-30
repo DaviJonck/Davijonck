@@ -8,7 +8,7 @@ I am currently studying Software Engineering at university and focusing in Front
 ## My articles: 
 https://dev.to/davijonck
 
-![Hagb](https://user-images.githubusercontent.com/17154364/234609177-f53352a9-892d-4f5a-ac52-429890d30805.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davijonck&layout=compact)
 
 
 
